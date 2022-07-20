@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://josephgicugumakamau.co.ke/"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="http://josephgicugumakamau.co.ke/"><img src="meliodas.jpg" alt="Joseph Gicuguma's image"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="http://josephgicugumakamau.co.ke/">Joseph G. Kamau</a>!</h1>
@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="http://josephgicugumakamau.co.ke/">Official Website</a></strong> |
   <strong><a href="https://twitter.com/gicugumajoe_">Twitter</a></strong> 
-  <!-- <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> | -->
+  <!-- <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>  -->|
   <strong><a href="https://www.linkedin.com/in/joseph-gicuguma-244295200/">LinkedIn</a></strong> |
   <!-- <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong> -->
 </p>
